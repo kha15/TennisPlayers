@@ -31,3 +31,37 @@ C:\Users\khale\source\repos\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisP
 C:\Users\khale\source\repos\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.genruntimeconfig.cache
 C:\Users\khale\source\repos\TennisPlayers\TennisPlayers\obj\Debug\net6.0\ref\TennisPlayers.dll
 C:\Users\khale\source\repos\TennisPlayers\TennisPlayers\bin\Debug\net6.0\Ressources\headtohead.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\appsettings.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\Ressources\headtohead.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\TennisPlayers.exe
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\TennisPlayers.deps.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\TennisPlayers.runtimeconfig.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\TennisPlayers.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\TennisPlayers.pdb
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.AssemblyInfo.cs
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.sourcelink.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets\msbuild.TennisPlayers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets\msbuild.build.TennisPlayers.props
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TennisPlayers.props
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TennisPlayers.props
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\scopedcss\bundle\TennisPlayers.styles.css
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPl.63FEC11D.Up2Date
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\refint\TennisPlayers.dll
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.pdb
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\TennisPlayers.genruntimeconfig.cache
+C:\Users\khale\source\repos\Nouveau dossier\TennisPlayers\TennisPlayers\obj\Debug\net6.0\ref\TennisPlayers.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj": {}
+    "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {
+    "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
+        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
         "projectName": "TennisPlayers",
-        "projectPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
+        "projectPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
         "packagesPath": "C:\\Users\\khale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\obj\\",
+        "outputPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khale\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj": {
+    "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj",
+        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj",
         "projectName": "TestUnitaire",
-        "projectPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj",
+        "projectPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj",
         "packagesPath": "C:\\Users\\khale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TestUnitaire\\obj\\",
+        "outputPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TestUnitaire\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khale\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {
-                "projectPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj"
+              "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {
+                "projectPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj"
               }
             }
           }

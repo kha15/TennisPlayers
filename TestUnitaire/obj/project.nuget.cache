@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ZNM6hciTNU=",
+  "dgSpecHash": "/cN/GnQ+NrI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj",
+  "projectFilePath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TestUnitaire\\TestUnitaire.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khale\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\khale\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

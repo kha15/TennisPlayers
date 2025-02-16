@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {}
+    "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {
+    "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
+        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
         "projectName": "TennisPlayers",
-        "projectPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
+        "projectPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\TennisPlayers.csproj",
         "packagesPath": "C:\\Users\\khale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khale\\source\\repos\\TennisPlayers\\TennisPlayers\\obj\\",
+        "outputPath": "C:\\Users\\khale\\source\\repos\\Nouveau dossier\\TennisPlayers\\TennisPlayers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khale\\AppData\\Roaming\\NuGet\\NuGet.Config",
