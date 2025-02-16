@@ -13,7 +13,9 @@ GetTopRankedPlayers : Récupère les joueurs de tennis les mieux classés, limit
 
 
 - Outils à installer pour chaque projet :
-TennisPlayers:
+
+* TennisPlayers:
+
 Dans le projet TennisPlayers, vous devez installer les dépendances suivantes :
 
 dotnet add package Microsoft.AspNetCore.Mvc
@@ -23,7 +25,8 @@ dotnet add package Microsoft.Extensions.Http
 dotnet add package System.Text.Json
 
 
-TestUnitaire:
+* TestUnitaire:
+
 dotnet add package xunit
 
 dotnet add package Moq
